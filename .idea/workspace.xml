@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad7dedb-db8e-45e8-ad29-b1b0d73fce4f" name="Changes" comment="This is My class information">
-      <change beforePath="$PROJECT_DIR$/.idea/My-Class-Information.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My-Class-Information.html" afterDir="false" />
+    <list default="true" id="aad7dedb-db8e-45e8-ad29-b1b0d73fce4f" name="Changes" comment="Updated Information">
+      <change beforePath="$PROJECT_DIR$/.idea/My-Class-Information.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-first-webpage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676562091059</updated>
-      <workItem from="1676562092215" duration="2083000" />
+      <workItem from="1676562092215" duration="3327000" />
     </task>
     <task id="LOCAL-00001" summary="This is My class information">
       <created>1676563025173</created>
@@ -83,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676564095572</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Information">
+      <created>1676564209323</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676564209323</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is My class information" />
-    <option name="LAST_COMMIT_MESSAGE" value="This is My class information" />
+    <MESSAGE value="Updated Information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Information" />
   </component>
 </project>
